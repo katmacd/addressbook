@@ -1,6 +1,6 @@
 language: java
 sudo: false
 install:
- -mvn install
- jdk:
-  -oraclejdk8
+	-mvn install
+jdk:
+	-oraclejdk8
